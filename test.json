@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/HazemMoussa777/xss/blob/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://github.com/HazemMoussa777/xss/blob/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
